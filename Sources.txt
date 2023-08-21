@@ -1,0 +1,18 @@
+Modes
+https://raw.githubusercontent.com/kronusme/dota2-api/master/data/mods.json
+
+Regions or cluster id, Missing 232
+https://github.com/kronusme/dota2-api/blob/master/data/regions.json
+
+The missing 232 id,
+https://github.com/odota/dotaconstants/blob/master/build/cluster.json
+^ This sets the 232 key to an integer 25
+https://github.com/odota/dotaconstants/blob/master/build/region.json
+^ This shows the key 25 as "PW UNICOM TIANJIN" Which is a city in China
+
+lobby type
+https://raw.githubusercontent.com/kronusme/dota2-api/master/data/lobbies.json
+
+hero type
+https://raw.githubusercontent.com/kronusme/dota2-api/master/data/heroes.json
+
